@@ -59,8 +59,8 @@ PACKAGES="$PACKAGES openssh-sftp-server"
 PACKAGES="$PACKAGES luci-app-openclash"
 PACKAGES="$PACKAGES luci-app-smartdns"
 PACKAGES="$PACKAGES luci-app-ddns"
-PACKAGES="$PACKAGES ddns-go"
-PACKAGES="$PACKAGES WireGuard"
+PACKAGES="$PACKAGES luci-i18n-ddns-go-zh-cn"
+PACKAGES="$PACKAGES luci-proto-wireguard"
 
 # 文件管理器
 PACKAGES="$PACKAGES luci-i18n-filemanager-zh-cn"
